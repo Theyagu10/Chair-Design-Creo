@@ -1,6 +1,10 @@
 # Chair-Design-Creo
 
-Chair design using Creo for WAAM process
+Chair design using Creo for WAAM process.
+
+The design was done with good ergonomics.
+
+Analysis was done to ensure the load withstanding capacity.
 
 CLick to watch in youtube..!!
 
